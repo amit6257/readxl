@@ -1,0 +1,23 @@
+// First line is the input expense file
+// Second line is the output file that will have all expenses into their specific catgories
+// Starting from 3rd line is the list of categories.
+// All comments(starting with // will be ignored)
+MAYURI FOODS AND VIDEO
+KALIA INDIAN CUISINE,burger and kabob,RAJDHANI THALI,ROTI 530 QUEEN ANNE,UDUPI CAFE,ihop,FAMILY PANCAKE HOUSE,KANISHKA INDIAN,MADRAS DOSA,subway
+CHEVRON
+COSTCO
+RUCHI
+CAFE 16
+ACH Deposit MICROSOFT  - EDIPAYMENT
+UBER
+SKYPE
+SAFEWAY
+CHAAT N ROLL
+TARGET
+STARBUCKS
+KANISHKA
+RIAMONEYTRANSFER
+xoom
+Uhaul
+TOYOTA FINANCIAL
+wal-mart
